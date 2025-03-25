@@ -16,12 +16,12 @@
 
 ---
 ### 🏗️ Some projects
-🛫 *[AERO](https//github.com/antenor-z/aero)*: Aeronautical information <br />
-🗒️ *[NOTE](https//github.com/antenor-z/note)*: Self-hosted notes management system <br />
-🌐 *[CONV](https//github.com/antenor-z/conv)*: A quick and dirty unit conversion tool <br />
-📋 *[TODO](https//github.com/antenor-z/todo)*: A simple todo list that I use for my daily tasks <br />
-🖥️ *[Server](https//github.com/antenor-z/server)*: A simple web server that can understand GET requests for files <br />
-💽 *[AXIA](https//github.com/antenor-z/axia)*: Remote file server <br />
+🛫 *[AERO](https://github.com/antenor-z/aero)*: Aeronautical information <br />
+🗒️ *[NOTE](https://github.com/antenor-z/note)*: Self-hosted notes management system <br />
+🌐 *[CONV](https://github.com/antenor-z/conv)*: A quick and dirty unit conversion tool <br />
+📋 *[TODO](https://github.com/antenor-z/todo)*: A simple todo list that I use for my daily tasks <br />
+🖥️ *[Server](https://github.com/antenor-z/server)*: A simple web server that can understand GET requests for files <br />
+💽 *[AXIA](https://github.com/antenor-z/axia)*: Remote file server <br />
 
 
 
