@@ -8,11 +8,13 @@
 
 ### ✅ Experience in
 
-![Python](https://img.shields.io/badge/-Python-2a2a2a?logo=python)
-![JS](https://img.shields.io/badge/-JS-2a2a2a?logo=javascript)
-![Go](https://img.shields.io/badge/-Go-2a2a2a?logo=go)
-![C](https://img.shields.io/badge/-C-2a2a2a?logo=c)
-![Rust](https://img.shields.io/badge/-Rust-2a2a2a?logo=rust)
+![Python](https://img.shields.io/badge/-Python-2a2a2a?logo=python&logoColor=fff)
+[![C](https://img.shields.io/badge/C-2a2a2a?logo=c&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-2a2a2a?logo=javascript&logoColor=fff)](#)
+[![Go](https://img.shields.io/badge/Go-2a2a2a.svg?&logo=go&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-2a2a2a.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-2a2a2a.svg?logo=cshrp&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-2a2a2a.svg?e&logo=rust&logoColor=white)](#)
 
 ---
 ### 🏗️ Some projects
